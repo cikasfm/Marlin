@@ -5,7 +5,11 @@
 Additional documentation can be found at [The Marlin Documentation Project](http://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!
 
+<<<<<<< HEAD
 ## Release Candidate -- Marlin 1.1.0-RC8 - 6 Dec 2016
+=======
+## Release Candidate -- Marlin 1.1.0-RCBugFix - 6 Dec 2016
+>>>>>>> README and Version for 1.1.0-RCBugFix
 
 __Not for production use – use with caution!__
 
@@ -14,6 +18,11 @@ The latest "stable" release of Marlin is 1.0.2-2. Download earlier versions of M
 The latest Release Candidate lives in the ["RC" branch](https://github.com/MarlinFirmware/Marlin/tree/RC). Bugs that we find in the current Release Candidate are patched in the ["RCBugFix" branch](https://github.com/MarlinFirmware/Marlin/tree/RCBugFix), so during beta testing this is where you can always find the latest code on its way towards release.
 
 ## Recent Changes
+<<<<<<< HEAD
+=======
+- RCBugFix
+
+>>>>>>> README and Version for 1.1.0-RCBugFix
 - RC8 - 06 Dec 2016
   - Major performance improvement for Graphical LCDs
   - Simplified probe configuration
@@ -35,7 +44,11 @@ The latest Release Candidate lives in the ["RC" branch](https://github.com/Marli
   - Support for Printrbot Rev.F
   - New and updated languages
 
+<<<<<<< HEAD
 - RC7 - 31 Jul 2016
+=======
+- RC7 - 26 Jul 2016
+>>>>>>> README and Version for 1.1.0-RCBugFix
   - Add Print Job Timer and Print Counter (`PRINTCOUNTER`)
   - New `M600` Filament Change (`FILAMENT_CHANGE_FEATURE`)
   - New `G12` Nozzle Clean (`NOZZLE_CLEAN_FEATURE`)
